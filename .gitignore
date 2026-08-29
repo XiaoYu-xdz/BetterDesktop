@@ -11,3 +11,7 @@ test_loader.exe
 .vs/
 *.suo
 *.userprefs
+
+## 发布产物 (release assets & staging)
+release/
+BetterDesktop-v*.zip
